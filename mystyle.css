@@ -3,12 +3,12 @@
 	}
 	#content-top-left {
 		position:absolute;
-		left:900px;
+		left:0px;
 		width:900px;
 	}
 	#content-top-right {
 		position:absolute;
-		left:0px;
+		left:900px;
 		width:900px;
 	}
 	#bottom-content {
