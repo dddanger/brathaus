@@ -1,3 +1,7 @@
+	body {
+		background-image: url("paper.gif");
+	}
+	
 	#wrapper {
 		width:1350px;
 		margin:0px auto;
@@ -18,18 +22,18 @@
 		border:1px solid #bbb;
 		float:left;
 	}
-	#top-content-left {
+	#content-top--left {
 		width:180px;
 	}
-	#top-content-right {
+	#content-top-right {
 		margin-left:10px;
 		width:134px;
 	}
-	#bottom-content-left {
+	#content-bottom-left {
 			margin-left:10px;
 		width:134px;
 	}
-	#bottom-content-right {
+	#content-bottom-right {
 		margin-left:10px;
 		width:134px;
 	}
