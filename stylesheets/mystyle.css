@@ -16,8 +16,8 @@
 		width:800px;
 	}
 	#bottom-content {
-		margin-top:10px;
-		padding-bottom:10px;	
+		position:absolute;
+		top:375px;
 	}
 	#content-bottom-left {
 		position:absolute;
