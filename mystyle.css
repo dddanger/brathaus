@@ -7,8 +7,9 @@
 		width:900px;
 	}
 	#content-top-right {
-		margin-left:0px;
-		width:700px;
+		position:absolute;
+		left:0px;
+		width:900px;
 	}
 	#bottom-content {
 		margin-top:10px;
