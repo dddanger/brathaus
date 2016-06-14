@@ -15,15 +15,16 @@
 		width:683px;
 	}
 	#bottom-content {
-		position:absolute;
-		top:384px;
 	}
 	#content-bottom-left {
+		position:absolute;
+		top:384px;
 		left:0px;
 		width:683px;
 	}
 	#content-bottom-right {
 		position:absolute;
+		top:384px;
 		left:683px;
 		width:683px;
 	}
