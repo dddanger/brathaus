@@ -1,35 +1,23 @@
-	#wrapper {
-		width:1350px;
-		margin:0px auto;
-		border:0px solid #bbb;
-		padding:0px;
-	}
-	#header {
-		border:1px solid #bbb;
-		height:80px;
-		padding:10px;
-	}
 	#top-content {
 		margin-top:10px;
 		padding-bottom:10px;
 	}
-	#content {
-		padding:10px;
-		border:1px solid #bbb;
-		float:left;
-	}
 	#content-top-left {
-		width:600px;
+		width:700px;
 	}
 	#content-top-right {
-		margin-left:10px;
-		width:600px;
+		margin-left:0px;
+		width:700px;
+	}
+	#bottom-content {
+		margin-top:10px;
+		padding-bottom:10px;	
 	}
 	#content-bottom-left {
-			margin-left:10px;
-		width:600px;
+		margin-left:0px;
+		width:700px;
 	}
 	#content-bottom-right {
-		margin-left:10px;
-		width:600px;
+		margin-left:0px;
+		width:700px;
 	}
