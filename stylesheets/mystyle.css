@@ -7,12 +7,12 @@
 	#content-top-left {
 		position:absolute;
 		left:0px;
-		width:683px;
+		width:650px;
 	}
 	#content-top-right {
 		position:absolute;
-		left:683px;
-		width:683px;
+		left:650px;
+		width:650px;
 	}
 	#bottom-content {
 	}
@@ -20,11 +20,11 @@
 		position:absolute;
 		top:384px;
 		left:0px;
-		width:683px;
+		width:650px;
 	}
 	#content-bottom-right {
 		position:absolute;
 		top:384px;
-		left:683px;
-		width:683px;
+		left:650px;
+		width:650px;
 	}
