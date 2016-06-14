@@ -22,18 +22,18 @@
 		border:1px solid #bbb;
 		float:left;
 	}
-	#content-top--left {
-		width:180px;
+	#content-top-left {
+		width:600px;
 	}
 	#content-top-right {
 		margin-left:10px;
-		width:134px;
+		width:600px;
 	}
 	#content-bottom-left {
 			margin-left:10px;
-		width:134px;
+		width:600px;
 	}
 	#content-bottom-right {
 		margin-left:10px;
-		width:134px;
+		width:600px;
 	}
