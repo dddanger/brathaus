@@ -20,11 +20,13 @@
 	}
 	#content-bottom-left {
 		position:absolute;
+		top:375px;
 		left:0px;
 		width:800px;
 	}
 	#content-bottom-right {
 		position:absolute;
 		left:800px;
+		top:375px;
 		width:800px;
 	}
