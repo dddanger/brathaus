@@ -7,26 +7,23 @@
 	#content-top-left {
 		position:absolute;
 		left:0px;
-		width:800px;
+		width:683px;
 	}
 	#content-top-right {
 		position:absolute;
-		left:800px;
-		width:800px;
+		left:683px;
+		width:683px;
 	}
 	#bottom-content {
 		position:absolute;
-		top:375px;
+		top:384px;
 	}
 	#content-bottom-left {
-		position:absolute;
-		top:375px;
 		left:0px;
-		width:800px;
+		width:683px;
 	}
 	#content-bottom-right {
 		position:absolute;
-		left:800px;
-		top:375px;
-		width:800px;
+		left:683px;
+		width:683px;
 	}
