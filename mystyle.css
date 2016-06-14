@@ -1,0 +1,35 @@
+	#wrapper {
+		width:1350px;
+		margin:0px auto;
+		border:0px solid #bbb;
+		padding:0px;
+	}
+	#header {
+		border:1px solid #bbb;
+		height:80px;
+		padding:10px;
+	}
+	#top-content {
+		margin-top:10px;
+		padding-bottom:10px;
+	}
+	#content div {
+		padding:10px;
+		border:1px solid #bbb;
+		float:left;
+	}
+	#top-content-left {
+		width:180px;
+	}
+	#top-content-right {
+		margin-left:10px;
+		width:134px;
+	}
+	#bottom-content-left {
+			margin-left:10px;
+		width:134px;
+	}
+	#bottom-content-right {
+		margin-left:10px;
+		width:134px;
+	}
