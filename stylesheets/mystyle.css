@@ -21,7 +21,8 @@
 		top:300px;
 		left:0px;
 		width:650px;
-		background-color:#898C6D
+		background-color:#898C6D;
+		opacity: 0.5;
 	}
 	#content-bottom-right {
 		position:absolute;
