@@ -21,10 +21,10 @@
 	#content-bottom-left {
 		position:absolute;
 		top:550px;
-		left:160px;
+		left:140px;
 		width:650px;
-		background-color:#ECEBE4;
-		opacity: 1.0;
+		background-color:#FFFFFF;
+		opacity: 0.75;
 	}
 	#content-bottom-right {
 		position:absolute;
