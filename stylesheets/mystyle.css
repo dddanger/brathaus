@@ -12,16 +12,16 @@
 	}
 	#content-top-right {
 		position:absolute;
-		top:150px;
-		left:900px;
+		top:200px;
+		left:850px;
 		width:650px;
 	}
 	#bottom-content {
 	}
 	#content-bottom-left {
 		position:absolute;
-		top:550px;
-		left:140px;
+		top:580px;
+		left:110px;
 		width:650px;
 		background-color:#FFFFFF;
 		opacity: 0.75;
