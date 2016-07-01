@@ -6,11 +6,13 @@
 	}
 	#content-top-left {
 		position:absolute;
-		left:50px;
+		top:50px;
+		left:100px;
 		width:650px;
 	}
 	#content-top-right {
 		position:absolute;
+		top:100px;
 		left:780px;
 		width:650px;
 	}
@@ -18,15 +20,15 @@
 	}
 	#content-bottom-left {
 		position:absolute;
-		top:380px;
-		left:0px;
+		top:440px;
+		left:60px;
 		width:650px;
 		background-color:#ECEBE4;
 		opacity: 1.0;
 	}
 	#content-bottom-right {
 		position:absolute;
-		top:390px;
-		left:720px;
+		top:400px;
+		left:820px;
 		width:600px;
 	}
